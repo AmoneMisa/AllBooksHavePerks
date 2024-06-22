@@ -1,8 +1,8 @@
 {
   "Nickname": "AllBooksHavePerks",
   "Visibility": "Visible",
-  "OneLineDescription": "",
-  "LongDescription": "",
+  "OneLineDescription": "Add random perk for each book",
+  "LongDescription": "Add random perk for each book. Each generation time perks will be RANDOM",
   "PreferredAutoVersioning": "Default",
   "RequiredMods": [],
   "TargetedReleases": []
